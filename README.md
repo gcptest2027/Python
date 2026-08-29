@@ -1,2 +1,9 @@
 # Python
 PythonPractice
+
+Python Installation
+1.	Install python
+2.	Install VS
+https://code.visualstudio.com
+3.	Install the Python Extension for VS Code
+To install the Python extension, click the Manage icon, which looks like a gear in the lower-left corner of the VS Code app. In the menu that appears, click Extensions. Enter python in the search box and click the Python extension. (If you see more than one extension named Python, choose the one supplied by Microsoft.) Click Install and install any additional tools that your system needs to complete the installation.
