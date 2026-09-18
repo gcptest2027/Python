@@ -14,7 +14,9 @@ To install the Python extension, click the Manage icon, which looks like a gear 
    python3.13
 7. create venv (Windows)
    python -m venv batch-env
-   bacth-env\scripts\activate 
+   bacth-env\scripts\activate
+8. Install package for specific version of python
+   py -3.12 -m pip install google-cloud-storage
      
 # Libraries
 
