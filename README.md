@@ -12,7 +12,9 @@ To install the Python extension, click the Manage icon, which looks like a gear 
    py install 3.13
 6. Launch specific version of python.
    python3.13
-      
+7. create venv (Windows)
+   python -m venv batch-env
+   bacth-env\scripts\activate 
      
 # Libraries
 
