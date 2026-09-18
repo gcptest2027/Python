@@ -10,6 +10,9 @@ To install the Python extension, click the Manage icon, which looks like a gear 
 4. login to github through the VS.
 5. install multiple versions of python.
    py install 3.13
+6. Launch specific version of python.
+   python3.13
+      
      
 # Libraries
 
